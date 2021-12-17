@@ -2,6 +2,7 @@
 A Simple Java Paint Application coded on NetBeans IDE, making use of Scene Builder to create the GUI.
 
 Functionalities included:
+
 - Brush: 
   To draw on the canvas. Colour, size and opacity adjustable.
   
@@ -27,6 +28,7 @@ Functionalities included:
    Used to adjust the opacity of brush/eraser. Can have values from 0-255.
    
  - Colour palette:
+
    Used to choose the colour of the brush/shape drawn. By default, when the app starts up, the colour is black.
    A basic palette is provided with colours like red, green, yellow and orange is also provided.
    For more colours, a "more colours" button is available, which opens up a pop-up window with a wide range of available brush colours. 
