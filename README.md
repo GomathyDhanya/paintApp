@@ -2,31 +2,33 @@
 A Simple Java Paint Application coded on NetBeans IDE, making use of Scene Builder to create the GUI.
 
 Functionalities included:
-- Brush <br>
+
+- Brush: 
   To draw on the canvas. Colour, size and opacity adjustable.
   
-- Eraser <br>
+- Eraser:
   To erase the contents on the canvas. Size and opacity adjustable.
   
-- Rectangle tool <br>
+- Rectangle tool:
   To draw a rectangle of any dimension on drag. Colour adjustable.
   
-- Oval tool <br>
+- Oval tool:
   To draw a oval of any dimension on drag. Colour adjustable.
  
-- Clear <br>
+- Clear:
   To clear the canvas. 
  
- - Save <br>
+ - Save:
   To save the image file of the art. Saves the file as image0, image1 and so on
  
- - Size slider <br>
+ - Size slider:
    Used to adjust the size of brush/eraser. Can have values from 0-100.
    
- - Opacity slider <br>
+ - Opacity slider:
    Used to adjust the opacity of brush/eraser. Can have values from 0-255.
    
- - Colour palette <br>
+ - Colour palette:
+
    Used to choose the colour of the brush/shape drawn. By default, when the app starts up, the colour is black.
    A basic palette is provided with colours like red, green, yellow and orange is also provided.
    For more colours, a "more colours" button is available, which opens up a pop-up window with a wide range of available brush colours. 
