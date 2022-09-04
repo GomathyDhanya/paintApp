@@ -1,4 +1,7 @@
 # paint
+
+Video demo: https://drive.google.com/file/d/1TNWQu1Br5OZXOR0Y6sEadHP0nv0Y4C69/view?usp=sharing
+
 A Simple Java Paint Application coded on NetBeans IDE, making use of Scene Builder to create the GUI.
 
 Functionalities included:
